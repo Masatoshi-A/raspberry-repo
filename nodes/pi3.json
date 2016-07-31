@@ -1,6 +1,8 @@
 {
   "run_list": [
-
+  	"recipe[setzsh]",
+  	"recipe[setvi]",
+  	"recipe[setrpi]"
   ],
   "automatic": {
     "ipaddress": "pi3"
