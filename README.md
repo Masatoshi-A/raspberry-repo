@@ -1,4 +1,4 @@
-# raspberry-repo
+# rasp-repo
 
 ## How to Use
 
